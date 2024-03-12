@@ -8,6 +8,7 @@ Requirements:
 4.	Jumper wires
 5.	Breadboard
 6.	Internet connection
+
 Step 1: Set up the Raspberry Pi
 1.1.	Install Required Libraries:
 •	Make sure your Raspberry Pi is connected to the internet.
