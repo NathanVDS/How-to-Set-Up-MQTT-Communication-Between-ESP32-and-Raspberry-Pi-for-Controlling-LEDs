@@ -19,6 +19,11 @@ Step 1: Set up the Raspberry Pi
 
 •	Install the required libraries by running the following commands:
 
+sudo apt-get update
+
+sudo apt-get install python3-pip
+
+pip3 install paho-mqtt
  
 1.2.	Prepare Your Raspberry Pi GPIO Pins:
 
@@ -78,6 +83,7 @@ Step 5: Run the Programs
 
 •	Run the Python script on your Raspberry Pi.
 
+python3 you_script_name.py
  
 •	Press the buttons connected to the ESP32.
 
